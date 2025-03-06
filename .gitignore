@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# Uploads folder
+uploads/
+
+# Flask dist folder
+dist/
+
+# OS or Editor Folders
+.vscode/
+.idea/
+
+# Ignore the instance folder
+instance/
+
+# Python Distributions
+*.whl
+*.tar.gz
+*.zip
